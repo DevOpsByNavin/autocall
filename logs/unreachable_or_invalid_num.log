@@ -1,0 +1,705 @@
+05-02 09:04:52.237 W/PhoneNumberUtils( 2610): getCountryIso Country {ISO=NP, source=0, time=50424}
+05-02 09:04:52.238 W/PhoneNumberUtils( 2610): isLocalEmergencyNumberInternalNP
+05-02 09:04:52.239 D/PhoneNumberUtils( 2610): slotId:1 subId:2 country:NP emergencyNumbers: 
+05-02 09:04:52.239 D/PhoneNumberUtils( 2610): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.283 W/PhoneNumberUtils( 2610): getCountryIso Country {ISO=NP, source=0, time=50424}
+05-02 09:04:52.283 W/PhoneNumberUtils( 2610): isLocalEmergencyNumberInternalNP
+05-02 09:04:52.284 D/PhoneNumberUtils( 2610): slotId:1 subId:2 country:NP emergencyNumbers: 
+05-02 09:04:52.284 D/PhoneNumberUtils( 2610): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.297 E/RILD    ( 2333): Oem client connected
+05-02 09:04:52.297 E/RILD    ( 2333): can't connect with oem client
+05-02 09:04:52.326 W/PhoneNumberUtils( 2610): getCountryIso Country {ISO=NP, source=0, time=50424}
+05-02 09:04:52.326 W/PhoneNumberUtils( 2610): isLocalEmergencyNumberInternalNP
+05-02 09:04:52.327 D/PhoneNumberUtils( 2610): slotId:1 subId:2 country:NP emergencyNumbers: 
+05-02 09:04:52.327 D/PhoneNumberUtils( 2610): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.355 W/PhoneNumberUtils( 2610): getCountryIso Country {ISO=NP, source=0, time=50424}
+05-02 09:04:52.355 W/PhoneNumberUtils( 2610): isLocalEmergencyNumberInternalNP
+05-02 09:04:52.356 D/PhoneNumberUtils( 2610): slotId:1 subId:2 country:NP emergencyNumbers: 
+05-02 09:04:52.356 D/PhoneNumberUtils( 2610): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.364 D/CallerInfoAsyncQuery( 2610): Processing event: 1 token (arg1): 1 command: 0 query URI: content://com.android.contacts/phone_lookup_enterprise/xxxxxxx
+05-02 09:04:52.390 D/PhoneNumberUtils( 2610): slotId:1 subId:2 country:null emergencyNumbers: 
+05-02 09:04:52.390 D/PhoneNumberUtils( 2610): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.398 W/PhoneNumberUtils( 2610): getCountryIso Country {ISO=NP, source=0, time=50424}
+05-02 09:04:52.398 W/PhoneNumberUtils( 2610): isLocalEmergencyNumberInternalNP
+05-02 09:04:52.398 D/PhoneNumberUtils( 2610): slotId:1 subId:2 country:NP emergencyNumbers: 
+05-02 09:04:52.398 D/PhoneNumberUtils( 2610): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.420 D/CallerInfoAsyncQuery( 2610): ##### onQueryComplete() #####   query complete for token: 0
+05-02 09:04:52.426 D/CallerInfoAsyncQuery( 2610): Processing event: 6 token (arg1): 1 command: 0 query URI: 
+05-02 09:04:52.446 W/PhoneNumberUtils( 2940): getCountryIso Country {ISO=NP, source=0, time=4705372}
+05-02 09:04:52.446 W/PhoneNumberUtils( 2940): isLocalEmergencyNumberInternalNP
+05-02 09:04:52.447 D/PhoneNumberUtils( 2940): slotId:1 subId:2 country:NP emergencyNumbers: 
+05-02 09:04:52.447 D/PhoneNumberUtils( 2940): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.447 W/PhoneNumberUtils( 2940): getCountryIso Country {ISO=NP, source=0, time=4705372}
+05-02 09:04:52.448 W/PhoneNumberUtils( 2940): isLocalEmergencyNumberInternalNP
+05-02 09:04:52.448 D/PhoneNumberUtils( 2940): slotId:1 subId:2 country:NP emergencyNumbers: 
+05-02 09:04:52.448 D/PhoneNumberUtils( 2940): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.450 E/GsmCdmaPhone( 2940): [GsmCdmaPhone] NullPointerExceptionjava.lang.NullPointerException: Attempt to invoke interface method 'boolean org.codeaurora.internal.IExtTelephony.isEmergencyNumber(java.lang.String)' on a null object reference
+05-02 09:04:52.451 D/PhoneNumberUtils( 2940): slotId:1 subId:2 country:null emergencyNumbers: 
+05-02 09:04:52.451 D/PhoneNumberUtils( 2940): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.452 D/GsmCdmaPhone( 2940): [GsmCdmaPhone] imsUseEnabled=false, useImsForEmergency=false, useImsForUt=false, isUt=false, imsPhone=null, imsPhone.isVolteEnabled()=N/A, imsPhone.isVowifiEnabled()=N/A, imsPhone.isVideoEnabled()=N/A, imsPhone.getServiceState().getState()=N/A, useImsPrefer=false
+05-02 09:04:52.452 D/GsmCdmaPhone( 2940): [GsmCdmaPhone] Trying (non-IMS) CS call
+05-02 09:04:52.452 D/GsmMmiCode( 2940): isTwoDigitShortCode
+05-02 09:04:52.453 W/PhoneNumberUtils( 2940): getCountryIso Country {ISO=NP, source=0, time=4705372}
+05-02 09:04:52.453 W/PhoneNumberUtils( 2940): isLocalEmergencyNumberInternalNP
+05-02 09:04:52.453 D/PhoneNumberUtils( 2940): slotId:1 subId:2 country:NP emergencyNumbers: 
+05-02 09:04:52.454 D/PhoneNumberUtils( 2940): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.454 D/GsmCdmaPhone( 2940): [GsmCdmaPhone] dialing w/ mmi 'null'...
+05-02 09:04:52.454 D/GsmCdmaCallTracker( 2940): [GsmCdmaCallTracker] update phone state, old=IDLE new=IDLE
+05-02 09:04:52.455 D/GsmCdmaCallTracker( 2940): [GsmCdmaCallTracker] convertNumberIfNecessary Roaming convertMaps.length 0 dialNumber.length() 10
+05-02 09:04:52.456 W/PhoneNumberUtils( 2940): getCountryIso Country {ISO=NP, source=0, time=4705372}
+05-02 09:04:52.456 W/PhoneNumberUtils( 2940): isLocalEmergencyNumberInternalNP
+05-02 09:04:52.459 D/CallerInfoAsyncQuery( 2610): ##### onQueryComplete() #####   query complete for token: 0
+05-02 09:04:52.459 D/CallerInfoAsyncQuery( 2610): Processing event: 3 token (arg1): 1 command: 0 query URI: 
+05-02 09:04:52.459 D/CallerInfoAsyncQuery( 2610): ##### onQueryComplete() #####   query complete for token: 0
+05-02 09:04:52.460 D/PhoneNumberUtils( 2940): slotId:1 subId:2 country:NP emergencyNumbers: 
+05-02 09:04:52.460 D/PhoneNumberUtils( 2940): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.461 D/GsmCdmaConnection( 2940): [GsmCdmaConn] acquireWakeLock
+05-02 09:04:52.464 D/RILJ    ( 2940): [4990]> SET_MUTE false [SUB1]
+05-02 09:04:52.465 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:04:52.466 E/RILD2   ( 2432): DoRouteIn - FW reqId : 53
+05-02 09:04:52.466 E/RILD2   ( 2432): DoRouteOut - FW reqId : 53
+05-02 09:04:52.466 E/RILD2   ( 2432): Onprocessing or cancel Request id(53), handleEvent(100), state (2)
+05-02 09:04:52.466 E/RILD2   ( 2432): SND-MGR: evt(100)
+05-02 09:04:52.466 E/RILD2   ( 2432): IpcProtocol41::IpcTxSndSetMute()
+05-02 09:04:52.466 E/RILD2   ( 2432): [G] TX: (M)SND_CMD (S)SND_MIC_MUTE_CTRL (T)SET l:8 m:92 a:00 [ 00 ]
+05-02 09:04:52.469 E/RILD2   ( 2432): [G] RX: (M)GEN_CMD (S)GEN_PHONE_RES (T)RESP l:c m:ba a:92 [ 09 02 03 00 80 ]
+05-02 09:04:52.469 E/RILD2   ( 2432): IpcProtocol41 GR: 0x8000
+05-02 09:04:52.469 E/RILD2   ( 2432): IpcProtocol GR: 0x8000
+05-02 09:04:52.469 E/RILD2   ( 2432): SND-MGR: evt(101)
+05-02 09:04:52.469 E/RILD2   ( 2432): SND-MGR: EVENT_SET_MUTE_DONE
+05-02 09:04:52.470 D/RILJ    ( 2940): [4990]< SET_MUTE  [SUB1]
+05-02 09:04:52.473 D/PhoneNumberUtils( 2940): slotId:1 subId:2 country:null emergencyNumbers: 
+05-02 09:04:52.474 D/PhoneNumberUtils( 2940): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.474 D/RILJ    ( 2940): [4991]> DIAL [SUB1]
+05-02 09:04:52.481 D/RILC    ( 2432): dispatchDial
+05-02 09:04:52.482 E/RILD2   ( 2432): CallDial: CallType 0 CallDomain 1 
+05-02 09:04:52.482 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:04:52.482 E/RILD2   ( 2432): DoRouteIn - FW reqId : 10
+05-02 09:04:52.482 E/RILD2   ( 2432): DoRouteOut - FW reqId : 10
+05-02 09:04:52.482 E/RILD2   ( 2432): Onprocessing or cancel Request id(10), handleEvent(105), state (2)
+05-02 09:04:52.482 E/RILD2   ( 2432): GC-MGR: evt(105)
+05-02 09:04:52.482 E/RILD2   ( 2432): DoDial(): event 106
+05-02 09:04:52.482 E/RILD2   ( 2432): DoDial(): CallType 0 CallDomain 1 
+05-02 09:04:52.482 E/RILD2   ( 2432): SetCallCount() - CallCount: 0 -> 1
+05-02 09:04:52.483 E/RILD2   ( 2432): [G] TX: (M)CALL_CMD (S)CALL_OUTGOING (T)EXEC l:63 m:93 a:00 [ 00 01 00 0A 21 39 37 34 35 33 31 36 34 38 38 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ]
+05-02 09:04:52.483 D/GsmCdmaCallTracker( 2940): [GsmCdmaCallTracker] update phone state, old=IDLE new=OFFHOOK
+05-02 09:04:52.485 E/RILD2   ( 2432): [G] RX: (M)GEN_CMD (S)GEN_PHONE_RES (T)RESP l:c m:bb a:93 [ 02 01 01 00 80 ]
+05-02 09:04:52.485 E/RILD2   ( 2432): IpcProtocol41 GR: 0x8000
+05-02 09:04:52.486 E/RILD2   ( 2432): IpcProtocol GR: 0x8000
+05-02 09:04:52.487 E/RILD2   ( 2432): GC-MGR: evt(106)
+05-02 09:04:52.487 E/RILD2   ( 2432): EVENT_DIAL_DONE eTime=4833393
+05-02 09:04:52.487 E/RILD2   ( 2432): GLNET-MGR: evt(231)
+05-02 09:04:52.487 E/RILD2   ( 2432): NET-MGR: EVENT_VOICE_CALL_STARTED
+05-02 09:04:52.491 D/PhoneNumberUtils( 2940): slotId:1 subId:2 country:null emergencyNumbers: 
+05-02 09:04:52.491 D/PhoneNumberUtils( 2940): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.493 D/PhoneNumberUtils( 2940): slotId:1 subId:2 country:null emergencyNumbers: 
+05-02 09:04:52.493 D/PhoneNumberUtils( 2940): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.494 D/PhoneNumberUtils( 2940): slotId:1 subId:2 country:null emergencyNumbers: 
+05-02 09:04:52.494 D/PhoneNumberUtils( 2940): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.495 W/PhoneNumberUtils( 2940): getCountryIso Country {ISO=NP, source=0, time=4705372}
+05-02 09:04:52.495 W/PhoneNumberUtils( 2940): isLocalEmergencyNumberInternalNP
+05-02 09:04:52.495 D/PhoneNumberUtils( 2940): slotId:1 subId:2 country:NP emergencyNumbers: 
+05-02 09:04:52.495 D/PhoneNumberUtils( 2940): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.497 D/PhoneNumberUtils( 2940): slotId:1 subId:2 country:null emergencyNumbers: 
+05-02 09:04:52.497 D/PhoneNumberUtils( 2940): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.506 E/RILD2   ( 2432): [G] RX: (M)SAT_CMD (S)SAT_CALL_CONTROL_RESULT (T)NOTI l:9 m:bc a:00 [ 00 01 ]
+05-02 09:04:52.506 E/RILD2   ( 2432): IpcProtocol41::IpcRxCallControlResult()
+05-02 09:04:52.507 E/RILD2   ( 2432): The Data len to be sent to framework : 0x2
+05-02 09:04:52.507 E/RILD2   ( 2432): [G] RX: (M)CALL_CMD (S)CALL_STATUS (T)NOTI l:d m:bd a:00 [ 00 01 00 01 00 00 ]
+05-02 09:04:52.507 E/RILD2   ( 2432): IpcProtocol41Iil::ConvertCallTypeToCallDetails(100)
+05-02 09:04:52.507 E/RILD2   ( 2432): GetReleaseCause(0x0,0x0)
+05-02 09:04:52.507 E/RILD2   ( 2432): GC-MGR: evt(200)
+05-02 09:04:52.507 E/RILD2   ( 2432): EVENT_CALL_STATE_CHANGED
+05-02 09:04:52.507 E/RILD2   ( 2432): OnCallStatusChanged() - CallId(0), CallStatus(1), CallType(0), CallDomain(1)
+05-02 09:04:52.507 E/RILD2   ( 2432): writeToDevice(): failed opening /sys/class/sec/sec_keypad/call_status : No such file or directory
+05-02 09:04:52.507 E/RILD2   ( 2432): OnCallStatusChanged(): failed writing to /sys/class/sec/sec_keypad/call_status : No such file or directory
+05-02 09:04:52.507 E/RILD2   ( 2432): OnCallStatusChanged() - CallStatus: OUTGOING, CallType: 0
+05-02 09:04:52.507 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 11010
+05-02 09:04:52.508 E/RILD2   ( 2432): Oem OnUnsolicitedResponse: response code=11010
+05-02 09:04:52.508 E/RILD2   ( 2432): OnCallStatusChanged(): RequestComplete 10
+05-02 09:04:52.508 E/RILD2   ( 2432): OnCallStatusChanged: reserving call id with call type 1
+05-02 09:04:52.508 E/RILD2   ( 2432): ReserveCallId() index=1
+05-02 09:04:52.508 E/RILD2   ( 2432): STK-MGR: evt(202)
+05-02 09:04:52.508 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 11003
+05-02 09:04:52.508 V/RILJ    ( 2940): XMM7260: unknown unsolicited response 11010
+05-02 09:04:52.508 V/RILJ    ( 2940): XMM7260: am=broadcast -a android.intent.action.PHONE_EXSTATE_CHANGED --ei STATE 1
+05-02 09:04:52.509 D/RILJ    ( 2940): [4991]< DIAL  [SUB1]
+05-02 09:04:52.516 V/RILJ    ( 2940): XMM7260: ignoring unsolicited response 11003
+05-02 09:04:52.566 D/DCT     ( 2940): [1]onVoiceCallStarted
+05-02 09:04:52.567 D/RILJ    ( 2940): [4992]> GET_CURRENT_CALLS [SUB1]
+05-02 09:04:52.568 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:04:52.568 E/RILD2   ( 2432): DoRouteIn - FW reqId : 9
+05-02 09:04:52.568 E/RILD2   ( 2432): DoRouteOut - FW reqId : 9
+05-02 09:04:52.569 E/RILD2   ( 2432): Onprocessing or cancel Request id(9), handleEvent(100), state (2)
+05-02 09:04:52.569 E/RILD2   ( 2432): GC-MGR: evt(100)
+05-02 09:04:52.569 E/RILD2   ( 2432): DoGetCurrentCalls():
+05-02 09:04:52.569 E/RILD2   ( 2432): IpcProtocol41::IpcTxCallGetCallList
+05-02 09:04:52.569 E/RILD2   ( 2432): [G] TX: (M)CALL_CMD (S)CALL_LIST (T)GET l:7 m:94 a:00 [ ]
+05-02 09:04:52.572 E/RILD2   ( 2432): [G] RX: (M)CALL_CMD (S)CALL_LIST (T)RESP l:1a m:be a:94 [ 01 00 01 00 01 03 00 0A 21 39 37 34 35 33 31 36 34 38 38 ]
+05-02 09:04:52.572 E/RILD2   ( 2432): IpcProtocol41Iil::ConvertCallTypeToCallDetails(100)
+05-02 09:04:52.572 E/RILD2   ( 2432): ===== CALL LIST(1/1) =====
+05-02 09:04:52.572 E/RILD2   ( 2432): isVoice: 1
+05-02 09:04:52.572 E/RILD2   ( 2432): isVideo: 0
+05-02 09:04:52.572 E/RILD2   ( 2432): callType: 0
+05-02 09:04:52.572 E/RILD2   ( 2432): callDomain: 1
+05-02 09:04:52.572 E/RILD2   ( 2432): callId: 0
+05-02 09:04:52.572 E/RILD2   ( 2432): isMT: 0
+05-02 09:04:52.572 E/RILD2   ( 2432): als: 0
+05-02 09:04:52.572 E/RILD2   ( 2432): state: 2
+05-02 09:04:52.572 E/RILD2   ( 2432): len: 10
+05-02 09:04:52.572 E/RILD2   ( 2432): toa: 129
+05-02 09:04:52.572 E/RILD2   ( 2432): ==========================
+05-02 09:04:52.575 E/RILD2   ( 2432): GC-MGR: evt(101)
+05-02 09:04:52.575 E/RILD2   ( 2432): AddCallId() reserved: index=1, call id=0
+05-02 09:04:52.575 E/RILD2   ( 2432): NumPresent Info(0, 0)
+05-02 09:04:52.575 E/RILD2   ( 2432): OnGetCurrentCallsDone(): E911 progress: 2, isE911inCallList: 0, RAT: 0
+05-02 09:04:52.576 E/RILD2   ( 2432): OnGetCurrentCallsDone() - CallList is changed (Count: 1)
+05-02 09:04:52.576 E/RILD2   ( 2432): OnGetCurrentCallsDone() - Call Count: 0 -> 1
+05-02 09:04:52.576 E/RILD2   ( 2432): GC-MGR::OnGetCurrentCallsDone(): prevVolteCallsCnt 0, mVoLteCallList->mCount 0
+05-02 09:04:52.580 D/RILJ    ( 2940): responseCallList: num=1 mEmergencyCallbackModeRegistrant=android.os.Registrant@a9670b5 mTestingEmergencyCall=false [SUB1]
+05-02 09:04:52.580 D/RILJ    ( 2940): Samsung call details: type=0, domain=1, csv= [SUB1]
+05-02 09:04:52.580 D/RILJ    ( 2940): responseCallList dc.number=9745316488 [SUB1]
+05-02 09:04:52.580 D/RILJ    ( 2940): responseCallList dc.name=null [SUB1]
+05-02 09:04:52.580 V/RILJ    ( 2940): Incoming UUS : NOT present! [SUB1]
+05-02 09:04:52.580 D/RILJ    ( 2940): InCall VoicePrivacy is disabled [SUB1]
+05-02 09:04:52.581 D/RILJ    ( 2940): [4992]< GET_CURRENT_CALLS {[id=1,DIALING,toa=129,norm,mo,0,voc,noevp,,cli=1,,1] } [SUB1]
+05-02 09:04:52.588 D/GsmCdmaCallTracker( 2940): Event EVENT_POLL_CALLS_RESULT Received
+05-02 09:04:52.588 D/GsmCdmaConnection( 2940): [GsmCdmaConn] parent= DIALING, newParent= DIALING
+05-02 09:04:52.588 D/GsmCdmaConnection( 2940): [GsmCdmaConn]  mNumberConverted false
+05-02 09:04:52.588 D/GsmCdmaConnection( 2940): [GsmCdmaConn] --dssds----null
+05-02 09:04:52.589 D/GsmCdmaConnection( 2940): [GsmCdmaConn] update: parent=DIALING, hasNewParent=false, wasConnectingInOrOut=true, wasHolding=false, isConnectingInOrOut=true, changed=false
+05-02 09:04:52.589 D/GsmCdmaCallTracker( 2940): [GsmCdmaCallTracker] update phone state, old=OFFHOOK new=OFFHOOK
+05-02 09:04:52.590 W/PhoneNumberUtils( 2940): getCountryIso Country {ISO=NP, source=0, time=4705372}
+05-02 09:04:52.591 W/PhoneNumberUtils( 2940): isLocalEmergencyNumberInternalNP
+05-02 09:04:52.591 D/PhoneNumberUtils( 2940): slotId:1 subId:2 country:NP emergencyNumbers: 
+05-02 09:04:52.591 D/PhoneNumberUtils( 2940): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.599 D/PhoneNumberUtils( 2940): slotId:1 subId:2 country:null emergencyNumbers: 
+05-02 09:04:52.599 D/PhoneNumberUtils( 2940): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:04:52.628 E/RILD    ( 2333): Oem client connected
+05-02 09:04:52.628 E/RILD    ( 2333): can't connect with oem client
+05-02 09:04:52.865 E/RILD    ( 2333): Oem client connected
+05-02 09:04:52.865 E/RILD    ( 2333): can't connect with oem client
+05-02 09:04:52.873 E/RILClient( 2335): RIL Response: unexpected error on write errno:32
+05-02 09:04:52.873 E/RILClient( 2335): SendOemRequestHookRaw: send request header (req_id = 102) failed. (-32)
+05-02 09:04:53.137 E/RILD    ( 2333): Oem client connected
+05-02 09:04:53.137 E/RILD    ( 2333): can't connect with oem client
+05-02 09:04:53.825 D/DCT     ( 2940): [0]screen on
+05-02 09:04:53.825 D/DCT     ( 2940): [0]stopNetStatPoll
+05-02 09:04:53.825 D/SubscriptionController( 2940): [getSubId]- numSubIds == 0, return DummySubIds slotIdx=0
+05-02 09:04:53.826 D/SubscriptionController( 2940): [getSubId]- numSubIds == 0, return DummySubIds slotIdx=0
+05-02 09:04:53.827 D/DCT     ( 2940): [1]screen on
+05-02 09:04:53.828 D/DCT     ( 2940): [1]stopNetStatPoll
+05-02 09:04:53.830 D/DCT     ( 2940): [1]startNetStatPoll
+05-02 09:04:54.404 E/RILD2   ( 2432): [G] RX: (M)SND_CMD (S)SND_WB_AMR_RPT (T)NOTI l:8 m:bf a:00 [ 00 ]
+05-02 09:04:54.404 E/RILD2   ( 2432): SND-MGR: evt(201)
+05-02 09:04:54.404 E/RILD2   ( 2432): [G] RX: (M)SND_CMD (S)SND_CLOCK_CTRL (T)NOTI l:8 m:c0 a:00 [ 01 ]
+05-02 09:04:54.404 E/RILD2   ( 2432): SND-MGR: EVENT_WB_AMR_REPORT
+05-02 09:04:54.405 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 20017
+05-02 09:04:54.405 E/RILC    ( 2432): unsupported OEM unsolicated response code 20017
+05-02 09:04:54.405 E/RILD2   ( 2432): Oem OnUnsolicitedResponse: response code=20017
+05-02 09:04:54.405 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 11010
+05-02 09:04:54.406 E/RILD2   ( 2432): Oem OnUnsolicitedResponse: response code=11010
+05-02 09:04:54.406 E/RILD2   ( 2432): SND-MGR: evt(203)
+05-02 09:04:54.406 E/RILD2   ( 2432): SND-MGR: EVENT_CLOCK_CTRL
+05-02 09:04:54.406 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 20022
+05-02 09:04:54.406 V/RILJ    ( 2940): XMM7260: unknown unsolicited response 11010
+05-02 09:04:54.407 E/RILC    ( 2432): unsupported OEM unsolicated response code 20022
+05-02 09:04:54.407 V/RILJ    ( 2940): XMM7260: am=broadcast -a com.samsung.intent.action.WB_AMR -f 268435456 --ei EXTRA_STATE 0
+05-02 09:04:54.407 E/RILD2   ( 2432): Oem OnUnsolicitedResponse: response code=20022
+05-02 09:04:54.407 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 11010
+05-02 09:04:54.407 E/RILD2   ( 2432): Oem OnUnsolicitedResponse: response code=11010
+05-02 09:04:54.408 V/RILJ    ( 2940): XMM7260: unknown unsolicited response 11010
+05-02 09:04:54.408 V/RILJ    ( 2940): XMM7260: am=broadcast -a android.intent.action.pcmclkctrl -f 268435456 --ez status true
+05-02 09:04:59.779 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_ICON_INFO (T)NOTI l:11 m:c1 a:00 [ 01 00 00 00 00 00 FF FF FF FF ]
+05-02 09:04:59.780 E/RILD2   ( 2432): IpcProtocol41CmcVia::IpcRxDispIconInfo(): modemType=4
+05-02 09:04:59.780 E/RILD2   ( 2432): Signal Strength: [0, 0, 99, 0, 200, 0, 200, -1, 0, 2147483647, 255, 2147483647, 2147483647, 2147483647]
+05-02 09:04:59.780 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:04:59.781 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:04:59.781 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 0
+05-02 09:04:59.781 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:04:59.781 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:00.780 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_ICON_INFO (T)NOTI l:11 m:c2 a:00 [ 01 01 00 00 00 00 FF FF FF FF ]
+05-02 09:05:00.780 E/RILD2   ( 2432): IpcProtocol41CmcVia::IpcRxDispIconInfo(): modemType=4
+05-02 09:05:00.780 E/RILD2   ( 2432): Signal Strength: [1, 1, 99, 1, 200, 1, 200, -1, 0, 2147483647, 255, 2147483647, 2147483647, 2147483647]
+05-02 09:05:00.781 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:00.781 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:00.781 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 1
+05-02 09:05:00.781 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:00.781 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:02.676 D/RILJ    ( 2940): [4993]> SIGNAL_STRENGTH [SUB0]
+05-02 09:05:02.680 E/RILD    ( 2333): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:02.680 E/RILD    ( 2333): DoRouteIn - FW reqId : 19
+05-02 09:05:02.681 E/RILD    ( 2333): DoRouteOut - FW reqId : 19
+05-02 09:05:02.681 E/RILD    ( 2333): Onprocessing or cancel Request id(19), handleEvent(106), state (2)
+05-02 09:05:02.681 E/RILD    ( 2333): GLNET-MGR: evt(106)
+05-02 09:05:02.682 E/RILD    ( 2333): DoSignalStrength():
+05-02 09:05:02.682 E/RILD    ( 2333): IpcProtocol41::IpcTxDispGetIconInformation
+05-02 09:05:02.682 E/RILD    ( 2333): [G] TX: (M)DISP_CMD (S)DISP_ICON_INFO (T)GET l:8 m:10 a:00 [ 01 ]
+05-02 09:05:02.685 E/RILD    ( 2333): [G] RX: (M)DISP_CMD (S)DISP_ICON_INFO (T)RESP l:11 m:13 a:10 [ 01 00 00 00 00 00 FF FF FF FF ]
+05-02 09:05:02.686 E/RILD    ( 2333): IpcProtocol41CmcVia::IpcRxDispIconInfo(): modemType=4
+05-02 09:05:02.686 E/RILD    ( 2333): Signal Strength: [0, 0, 99, 0, 200, 0, 200, -1, 0, 2147483647, 255, 2147483647, 2147483647, 2147483647]
+05-02 09:05:02.687 E/RILD    ( 2333): GLNET-MGR: evt(107)
+05-02 09:05:02.687 E/RILD    ( 2333): NET-MGR: EVENT_SIGNAL_STRENGTH_DONE
+05-02 09:05:02.689 D/RILJ    ( 2940): [4993]< SIGNAL_STRENGTH SignalStrength: 0 99 0 200 0 200 -1 0 2147483647 255 2147483647 2147483647 2147483647 gsm|lte [SUB0]
+05-02 09:05:02.689 D/SubscriptionController( 2940): [getSubId]- numSubIds == 0, return DummySubIds slotIdx=0
+05-02 09:05:03.779 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_RSSI_INFO (T)NOTI l:10 m:c3 a:00 [ 71 00 63 63 00 FF FF FF FF ]
+05-02 09:05:03.780 E/RILD2   ( 2432): ConvertDbmToAsu(): dbm=113, asu=0
+05-02 09:05:03.780 E/RILD2   ( 2432): IpcRxDispRssiInfo(): signalbar=-1, signal=0
+05-02 09:05:03.780 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:03.780 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:03.780 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 1
+05-02 09:05:03.780 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:03.780 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:03.865 E/RILD    ( 2333): Oem client connected
+05-02 09:05:03.866 E/RILD    ( 2333): can't connect with oem client
+05-02 09:05:03.926 E/RILD    ( 2333): Oem client connected
+05-02 09:05:03.927 E/RILD    ( 2333): can't connect with oem client
+05-02 09:05:04.245 E/RILD    ( 2333): Oem client connected
+05-02 09:05:04.246 E/RILD    ( 2333): can't connect with oem client
+05-02 09:05:04.250 E/RILD    ( 2333): Oem client connected
+05-02 09:05:04.250 E/RILD    ( 2333): can't connect with oem client
+05-02 09:05:04.781 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_RSSI_INFO (T)NOTI l:10 m:c4 a:00 [ 6F 01 63 63 00 FF FF FF FF ]
+05-02 09:05:04.781 E/RILD2   ( 2432): ConvertDbmToAsu(): dbm=111, asu=1
+05-02 09:05:04.781 E/RILD2   ( 2432): IpcRxDispRssiInfo(): signalbar=-1, signal=1
+05-02 09:05:04.782 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:04.782 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:04.782 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_ICON_INFO (T)NOTI l:11 m:c5 a:00 [ 01 00 00 00 00 00 FF FF FF FF ]
+05-02 09:05:04.782 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 1
+05-02 09:05:04.782 E/RILD2   ( 2432): IpcProtocol41CmcVia::IpcRxDispIconInfo(): modemType=4
+05-02 09:05:04.782 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:04.782 E/RILD2   ( 2432): Signal Strength: [0, 0, 99, 0, 200, 0, 200, -1, 0, 2147483647, 255, 2147483647, 2147483647, 2147483647]
+05-02 09:05:04.782 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:04.783 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:04.783 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:04.783 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 0
+05-02 09:05:04.783 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:04.783 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:05.783 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_RSSI_INFO (T)NOTI l:10 m:c6 a:00 [ 10 1F 63 63 00 FF FF FF FF ]
+05-02 09:05:05.783 E/RILD2   ( 2432): ConvertDbmToAsu(): dbm=16, asu=31
+05-02 09:05:05.783 E/RILD2   ( 2432): IpcRxDispRssiInfo(): signalbar=-1, signal=31
+05-02 09:05:05.784 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:05.784 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:05.784 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_ICON_INFO (T)NOTI l:11 m:c7 a:00 [ 01 01 00 00 00 00 FF FF FF FF ]
+05-02 09:05:05.784 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 0
+05-02 09:05:05.784 E/RILD2   ( 2432): IpcProtocol41CmcVia::IpcRxDispIconInfo(): modemType=4
+05-02 09:05:05.784 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:05.785 E/RILD2   ( 2432): Signal Strength: [1, 1, 99, 1, 200, 1, 200, -1, 0, 2147483647, 255, 2147483647, 2147483647, 2147483647]
+05-02 09:05:05.785 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:05.785 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:05.785 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:05.785 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 1
+05-02 09:05:05.786 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:05.786 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:06.012 E/RILD2   ( 2432): [G] RX: (M)NET_CMD (S)NET_REGIST (T)NOTI l:1a m:c8 a:00 [ 02 02 02 01 D9 27 01 32 00 00 00 FE FF 02 02 00 FF FF 00 ]
+05-02 09:05:06.013 E/RILD2   ( 2432): IpcProtocol41cmcvia::IpcRxNetRegState() lte no service feature turn off
+05-02 09:05:06.014 E/RILD2   ( 2432): GLNET-MGR: evt(200)
+05-02 09:05:06.014 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_STATE_CHANGED
+05-02 09:05:06.014 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1002
+05-02 09:05:06.014 E/RILD2   ( 2432): [G] RX: (M)NET_CMD (S)NET_REGIST (T)NOTI l:1a m:c9 a:00 [ 02 03 02 01 D9 27 01 32 00 00 00 FE FF 02 02 00 FF FF 00 ]
+05-02 09:05:06.015 D/RILJ    ( 2940): [UNSL]< UNSOL_RESPONSE_VOICE_NETWORK_STATE_CHANGED [SUB1]
+05-02 09:05:06.016 E/RILD2   ( 2432): IpcProtocol41cmcvia::IpcRxNetRegState() lte no service feature turn off
+05-02 09:05:06.016 D/RILJ    ( 2940): [4994]> OPERATOR [SUB1]
+05-02 09:05:06.017 E/RILD2   ( 2432): GLNET-MGR: evt(200)
+05-02 09:05:06.017 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_STATE_CHANGED
+05-02 09:05:06.017 E/RILD2   ( 2432): OnNetworkStateChanged(): Don't send UNSOL_RESPONSE_VOICE_NETWORK_STATE_CHANGED (1)
+05-02 09:05:06.017 E/RILD2   ( 2432): [G] RX: (M)NET_CMD (S)NET_SERVING_NETWORK (T)NOTI l:21 m:ca a:00 [ 02 02 02 34 32 39 30 31 23 D9 27 01 01 32 00 00 FE FF 00 00 00 00 00 00 FF FF ]
+05-02 09:05:06.017 E/RILD2   ( 2432): GLNET-MGR: evt(206)
+05-02 09:05:06.018 E/RILD2   ( 2432): GNET-MGR: EVENT_SERVING_NETWORK
+05-02 09:05:06.020 D/RILJ    ( 2940): [4995]> DATA_REGISTRATION_STATE [SUB1]
+05-02 09:05:06.021 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:06.021 E/RILD2   ( 2432): DoRouteIn - FW reqId : 22
+05-02 09:05:06.022 E/RILD2   ( 2432): DoRouteOut - FW reqId : 22
+05-02 09:05:06.022 E/RILD2   ( 2432): Onprocessing or cancel Request id(22), handleEvent(108), state (2)
+05-02 09:05:06.022 E/RILD2   ( 2432): GLNET-MGR: evt(108)
+05-02 09:05:06.022 E/RILD2   ( 2432): DoOperator():
+05-02 09:05:06.022 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:06.023 D/RILJ    ( 2940): [4996]> VOICE_REGISTRATION_STATE [SUB1]
+05-02 09:05:06.023 E/RILD2   ( 2432): IpcProtocol41::IpcTxNetGetOperator()
+05-02 09:05:06.023 E/RILD2   ( 2432): [G] TX: (M)NET_CMD (S)NET_SERVING_NETWORK (T)GET l:7 m:95 a:00 [ ]
+05-02 09:05:06.025 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:06.026 E/RILD2   ( 2432): DoRouteIn - FW reqId : 21
+05-02 09:05:06.026 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:06.026 E/RILD2   ( 2432): Onprocessing or cancel Request id(22), handleEvent(108), state (2)
+05-02 09:05:06.026 D/RILJ    ( 2940): [4997]> QUERY_NETWORK_SELECTION_MODE [SUB1]
+05-02 09:05:06.027 E/RILD2   ( 2432): DoRouteIn - FW reqId : 20
+05-02 09:05:06.027 E/RILD2   ( 2432): [G] RX: (M)NET_CMD (S)NET_SERVING_NETWORK (T)RESP l:21 m:cb a:95 [ 02 02 02 34 32 39 30 31 23 D9 27 01 01 32 00 00 FE FF 00 00 00 00 00 00 FF FF ]
+05-02 09:05:06.027 E/RILD2   ( 2432): Onprocessing or cancel Request id(22), handleEvent(108), state (2)
+05-02 09:05:06.028 E/RILD2   ( 2432): GLNET-MGR: evt(109)
+05-02 09:05:06.028 E/RILD2   ( 2432): GNET-MGR: EVENT_OPERATOR_DONE
+05-02 09:05:06.029 E/RILD2   ( 2432): EVENT_OPERATOR_DONE (Nepal Telecom,Nepal Telecom,42901)
+05-02 09:05:06.030 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:06.030 E/RILD2   ( 2432): DoRouteIn - FW reqId : 45
+05-02 09:05:06.031 E/RILD2   ( 2432): Onprocessing or cancel Request id(22), handleEvent(108), state (2)
+05-02 09:05:06.031 D/RILJ    ( 2940): [4994]< OPERATOR {Nepal Telecom, Nepal Telecom, 42901, null} [SUB1]
+05-02 09:05:06.032 E/RILD2   ( 2432): DoRouteOut - FW reqId : 21
+05-02 09:05:06.032 E/RILD2   ( 2432): Onprocessing or cancel Request id(21), handleEvent(102), state (2)
+05-02 09:05:06.032 E/RILD2   ( 2432): GLNET-MGR: evt(102)
+05-02 09:05:06.033 E/RILD2   ( 2432): DoDataNetRegState():
+05-02 09:05:06.033 E/RILD2   ( 2432): IpcProtocol41::IpcTxNetGetDataRegState()
+05-02 09:05:06.034 E/RILD2   ( 2432): [G] TX: (M)NET_CMD (S)NET_REGIST (T)GET l:9 m:96 a:00 [ FF 03 ]
+05-02 09:05:06.038 E/RILD2   ( 2432): [G] RX: (M)NET_CMD (S)NET_REGIST (T)RESP l:1a m:cc a:96 [ 02 03 02 01 D9 27 01 32 00 00 00 FE FF 02 02 00 FF FF 00 ]
+05-02 09:05:06.039 E/RILD2   ( 2432): IpcProtocol41cmcvia::IpcRxNetRegState() lte no service feature turn off
+05-02 09:05:06.039 E/RILD2   ( 2432): GLNET-MGR: evt(103)
+05-02 09:05:06.039 E/RILD2   ( 2432): NET-MGR: EVENT_DATA_NET_REG_STATE_DONE
+05-02 09:05:06.040 E/RILD2   ( 2432): WriteProperty Property=ril.ims.ltevoicesupport, Slot=1, Value=2 (2,2)
+05-02 09:05:06.044 E/RILD2   ( 2432): WriteProperty Property=ril.ims.ecsupport, Slot=1, Value=2 (2,2)
+05-02 09:05:06.044 E/RILD2   ( 2432): ltevoicesupport(1): 2
+05-02 09:05:06.044 E/RILD2   ( 2432): UpdateLteVoiceSupportProperty(): ltevoicesupport_1 property set to 2 , ecsupport set to 2
+05-02 09:05:06.044 E/RILD2   ( 2432): Init mOptionalRadioTech by mRat
+05-02 09:05:06.046 E/RILD2   ( 2432): DoRouteOut - FW reqId : 20
+05-02 09:05:06.046 D/RILJ    ( 2940): [4995]< DATA_REGISTRATION_STATE {1, 27d9, 00003201, 1, null, 4, 0xfffe, null, 0x00003201, null, null, 0} [SUB1]
+05-02 09:05:06.047 E/RILD2   ( 2432): Onprocessing or cancel Request id(20), handleEvent(100), state (2)
+05-02 09:05:06.047 D/SST     ( 2940): handlPollStateResultMessage: GsmSST setDataRegState=0 regState=1 dataRadioTechnology=1
+05-02 09:05:06.047 E/RILD2   ( 2432): LDC-MGR: evt(10001)
+05-02 09:05:06.048 E/RILD2   ( 2432): OnPsRegistrationStateChanged: Updating RAT to 1 for DataCall 5
+05-02 09:05:06.048 E/RILD2   ( 2432): GLNET-MGR: evt(100)
+05-02 09:05:06.048 E/RILD2   ( 2432): DoVoiceNetRegState():
+05-02 09:05:06.048 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:06.048 E/RILD2   ( 2432): IpcProtocol41::IpcTxNetGetVoiceRegState()
+05-02 09:05:06.049 E/RILD2   ( 2432): [G] TX: (M)NET_CMD (S)NET_REGIST (T)GET l:9 m:97 a:00 [ FF 02 ]
+05-02 09:05:06.053 E/RILD2   ( 2432): [G] RX: (M)NET_CMD (S)NET_REGIST (T)RESP l:1a m:cd a:97 [ 02 02 02 01 D9 27 01 32 00 00 00 FE FF 02 02 00 FF FF 00 ]
+05-02 09:05:06.053 E/RILD2   ( 2432): IpcProtocol41cmcvia::IpcRxNetRegState() lte no service feature turn off
+05-02 09:05:06.054 E/RILD2   ( 2432): GLNET-MGR: evt(101)
+05-02 09:05:06.054 E/RILD2   ( 2432): GNET-MGR: EVENT_VOICE_NET_REG_STATE_DONE
+05-02 09:05:06.054 E/RILD2   ( 2432): DoRouteOut - FW reqId : 45
+05-02 09:05:06.054 E/RILD2   ( 2432): Can't open Hall IC Node. OnVoiceNetRegStateDone() No such file or directory.
+05-02 09:05:06.055 E/RILD2   ( 2432): Onprocessing or cancel Request id(45), handleEvent(118), state (2)
+05-02 09:05:06.055 D/RILJ    ( 2940): [4996]< VOICE_REGISTRATION_STATE {1, 27d9, 00003201, 1, null, null, null, null, null, null, null, null, null, null, null, 2, 2, 0} [SUB1]
+05-02 09:05:06.055 E/RILD2   ( 2432): GLNET-MGR: evt(118)
+05-02 09:05:06.055 E/RILD2   ( 2432): DoGetNetSelectionMode():
+05-02 09:05:06.055 E/RILD2   ( 2432): IpcProtocol41::IpcTxNetGetNetSelectionMode()
+05-02 09:05:06.055 E/RILD2   ( 2432): [G] TX: (M)NET_CMD (S)NET_PLMN_SEL (T)GET l:7 m:98 a:00 [ ]
+05-02 09:05:06.059 E/RILD2   ( 2432): [G] RX: (M)NET_CMD (S)NET_PLMN_SEL (T)RESP l:8 m:ce a:98 [ 02 ]
+05-02 09:05:06.059 E/RILD2   ( 2432): GLNET-MGR: evt(119)
+05-02 09:05:06.059 E/RILD2   ( 2432): NET-MGR: EVENT_GET_NETWORK_SELECTION_MODE_DONE
+05-02 09:05:06.059 D/RILJ    ( 2940): [4997]< QUERY_NETWORK_SELECTION_MODE {0} [SUB1]
+05-02 09:05:06.060 D/SST     ( 2940): EVENT_POLL_STATE_NETWORK_SELECTION_MODE
+05-02 09:05:06.062 D/SST     ( 2940): Poll ServiceState done:  oldSS=[0 0 voice home data home Nepal Telecom Nepal Telecom 42901 Nepal Telecom Nepal Telecom 42901  UMTS HSPAP CSS not supported -1 -1 RoamInd=-1 DefRoamInd=-1 EmergOnly=false IsDataRoamingFromRegistration=false IsUsingCarrierAggregation=false] newSS=[0 0 voice home data home Nepal Telecom Nepal Telecom 42901 Nepal Telecom Nepal Telecom 42901  GPRS GPRS CSS not supported -1 -1 RoamInd=-1 DefRoamInd=-1 EmergOnly=false IsDataRoamingFromRegistration=false IsUsingCarrierAggregation=false] oldMaxDataCalls=4 mNewMaxDataCalls=4 oldReasonDataDenied=-1 mNewReasonDataDenied=-1
+05-02 09:05:06.062 D/SST     ( 2940): RAT switched UMTS -> GPRS at cell 12801
+05-02 09:05:06.062 D/GsmCdmaPhone( 2940): [GsmCdmaPhone] updatePhoneObject: radioTechnology=1
+05-02 09:05:06.062 D/TelephonyManager( 2940): setTelephonyProperty: success phoneId=1 property=gsm.network.type value: GPRS propVal=Unknown,GPRS
+05-02 09:05:06.066 D/SIMRecords( 2940): [SIMRecords] getServiceProviderName: no brandOverride, providerName=Namaste
+05-02 09:05:06.066 D/SIMRecords( 2940): [SIMRecords] getServiceProviderName: no brandOverride, providerName=Namaste
+05-02 09:05:06.066 D/TelephonyManager( 2940): setTelephonyProperty: success phoneId=1 property=gsm.operator.alpha value: Nepal Telecom propVal=,Nepal Telecom
+05-02 09:05:06.067 D/TelephonyManager( 2940): setTelephonyProperty: success phoneId=1 property=gsm.operator.numeric value: 42901 propVal=,42901
+05-02 09:05:06.068 D/TelephonyManager( 2940): setTelephonyProperty: success phoneId=1 property=gsm.operator.iso-country value: np propVal=,np
+05-02 09:05:06.069 D/SST     ( 2940): shouldFixTimeZoneNow: retVal=false iccCardExist=true operatorNumeric=42901 mcc=429 prevOperatorNumeric=42901 prevMcc=429 needToFixTimeZone=false ltod=05-02 09:05:06.068
+05-02 09:05:06.069 D/TelephonyManager( 2940): setTelephonyProperty: success phoneId=1 property=gsm.operator.isroaming value: false propVal=false,false
+05-02 09:05:06.069 D/SST     ( 2940): Broadcasting ServiceState : 0 0 voice home data home Nepal Telecom Nepal Telecom 42901 Nepal Telecom Nepal Telecom 42901  GPRS GPRS CSS not supported -1 -1 RoamInd=-1 DefRoamInd=-1 EmergOnly=false IsDataRoamingFromRegistration=false IsUsingCarrierAggregation=false
+05-02 09:05:06.070 D/DefaultPhoneNotifier( 2940): nofityServiceState: mRegistry=com.android.internal.telephony.ITelephonyRegistry$Stub$Proxy@9bd5f54 ss=0 0 voice home data home Nepal Telecom Nepal Telecom 42901 Nepal Telecom Nepal Telecom 42901  GPRS GPRS CSS not supported -1 -1 RoamInd=-1 DefRoamInd=-1 EmergOnly=false IsDataRoamingFromRegistration=false IsUsingCarrierAggregation=false sender=Handler (com.android.internal.telephony.GsmCdmaPhone) {c94b88e} phondId=1 subId=2
+05-02 09:05:06.076 D/SST     ( 2940): notifyDataRegStateRilRadioTechnologyChanged: drs=0 rat=1
+05-02 09:05:06.076 D/TelephonyManager( 2940): setTelephonyProperty: success phoneId=1 property=gsm.network.type value: GPRS propVal=Unknown,GPRS
+05-02 09:05:06.078 D/DCT     ( 2940): [1]get all active apn types
+05-02 09:05:06.078 D/DC-1    ( 2940): DcActiveState not handled msg.what=EVENT_DATA_CONNECTION_DRS_OR_RAT_CHANGED
+05-02 09:05:06.078 D/DC-1    ( 2940): DcDefault msg=EVENT_DATA_CONNECTION_DRS_OR_RAT_CHANGED RefCount=1
+05-02 09:05:06.078 D/GsmCdmaPhone( 2940): [GsmCdmaPhone] getDataConnectionState apnType=default ret=SUSPENDED
+05-02 09:05:06.078 D/SubscriptionController( 2940): [getSubId]- numSubIds == 0, return DummySubIds slotIdx=0
+05-02 09:05:06.078 D/DC-1    ( 2940): DcDefaultState: EVENT_DATA_CONNECTION_DRS_OR_RAT_CHANGED drs=0 mRilRat=1
+05-02 09:05:06.081 D/SubscriptionController( 2940): [getSubId]- numSubIds == 0, return DummySubIds slotIdx=0
+05-02 09:05:06.083 D/CdmaSSM ( 2940): subscriptionSource from settings: 0
+05-02 09:05:06.087 D/TelephonyRegistry( 2610): Notify data connection state changed on sub: 2
+05-02 09:05:06.087 D/TelephonyRegistry( 2610): Notify data connection state changed on sub: 2
+05-02 09:05:06.089 D/DC-2    ( 2940): DcInactiveState nothandled msg.what=EVENT_DATA_CONNECTION_DRS_OR_RAT_CHANGED
+05-02 09:05:06.089 D/DC-2    ( 2940): DcDefault msg=EVENT_DATA_CONNECTION_DRS_OR_RAT_CHANGED RefCount=0
+05-02 09:05:06.089 D/DC-2    ( 2940): DcDefaultState: EVENT_DATA_CONNECTION_DRS_OR_RAT_CHANGED drs=0 mRilRat=1
+05-02 09:05:06.095 D/SST     ( 2940): getCellLocation(): X good mCellLoc=[10201,12801,-1]
+05-02 09:05:06.095 D/TelephonyRegistry( 2610): notifyCellLocationForSubscriber: subId=2 cellLocation=Bundle[mParcelledData.dataSize=64]
+05-02 09:05:06.098 D/GsmCdmaPhone( 2940): [GsmCdmaPhone] phoneObjectUpdater: newVoiceRadioTech=1
+05-02 09:05:06.098 D/GsmCdmaPhone( 2940): [GsmCdmaPhone] phoneObjectUpdater: No change ignore, newVoiceRadioTech=1 mActivePhone=GSM
+05-02 09:05:06.099 D/SubscriptionController( 2940): [getSubId]- numSubIds == 0, return DummySubIds slotIdx=0
+05-02 09:05:06.099 D/DCT     ( 2940): [1]setupDataOnConnectableApns: nwTypeChanged hipri:[state=IDLE,enabled=false] mms:[state=IDLE,enabled=false] supl:[state=IDLE,enabled=false] cbs:[state=IDLE,enabled=false] dun:[state=IDLE,enabled=false] fota:[state=IDLE,enabled=false] ims:[state=IDLE,enabled=false] default:[state=CONNECTED,enabled=true] ia:[state=IDLE,enabled=false] emergency:[state=IDLE,enabled=false] 
+05-02 09:05:06.111 D/DCT     ( 2940): [1]setPolicyDataEnabled: true
+05-02 09:05:06.112 D/CdmaSSM ( 2940): subscriptionSource from settings: 0
+05-02 09:05:06.113 D/DCT     ( 2940): [1]isDataAllowed: No - Concurrent voice and data not allowed - PhoneState is not idle
+05-02 09:05:06.420 E/RILD2   ( 2432): [G] RX: (M)SS_CMD (S)SS_INFO (T)NOTI l:81 m:cf a:00 [ 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ]
+05-02 09:05:06.420 E/RILD2   ( 2432): Received Supplementary service notification from network : [ 4]
+05-02 09:05:06.420 E/RILD2   ( 2432): Received SS INFO message during the MO Call set up [ 4]
+05-02 09:05:06.421 E/RILD2   ( 2432): SS-MGR: evt(201)
+05-02 09:05:06.421 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1011
+05-02 09:05:06.422 D/RILJ    ( 2940): [UNSL]< UNSOL_SUPP_SVC_NOTIFICATION com.android.internal.telephony.gsm.SuppServiceNotification@aa28d2d mobile originated  code: 2 index: 0 history: null ""  [SUB1]
+05-02 09:05:06.423 D/GsmCdmaPhone( 2940): [GsmCdmaPhone] Event EVENT_SSN Received
+05-02 09:05:06.537 E/RILD2   ( 2432): [G] RX: (M)CALL_CMD (S)CALL_STATUS (T)NOTI l:d m:d0 a:00 [ 00 01 00 05 00 00 ]
+05-02 09:05:06.538 E/RILD2   ( 2432): IpcProtocol41Iil::ConvertCallTypeToCallDetails(100)
+05-02 09:05:06.538 E/RILD2   ( 2432): GetReleaseCause(0x0,0x0)
+05-02 09:05:06.538 E/RILD2   ( 2432): GC-MGR: evt(200)
+05-02 09:05:06.538 E/RILD2   ( 2432): EVENT_CALL_STATE_CHANGED
+05-02 09:05:06.539 E/RILD2   ( 2432): OnCallStatusChanged() - CallId(0), CallStatus(5), CallType(0), CallDomain(1)
+05-02 09:05:06.539 E/RILD2   ( 2432): GetCurrentCallType() index=1, call id=0/-1, call type=1
+05-02 09:05:06.539 E/RILD2   ( 2432): writeToDevice(): failed opening /sys/class/sec/sec_keypad/call_status : No such file or directory
+05-02 09:05:06.539 E/RILD2   ( 2432): OnCallStatusChanged(): failed writing to /sys/class/sec/sec_keypad/call_status : No such file or directory
+05-02 09:05:06.539 E/RILD2   ( 2432): OnCallStatusChanged() - CallStatus: CONNECTING, CallType: 1
+05-02 09:05:06.540 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 11010
+05-02 09:05:06.541 E/RILD2   ( 2432): Oem OnUnsolicitedResponse: response code=11010
+05-02 09:05:06.542 V/RILJ    ( 2940): XMM7260: unknown unsolicited response 11010
+05-02 09:05:06.542 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1001
+05-02 09:05:06.542 V/RILJ    ( 2940): XMM7260: am=broadcast -a android.intent.action.PHONE_EXSTATE_CHANGED --ei STATE 5
+05-02 09:05:06.543 D/RILJ    ( 2940): [UNSL]< UNSOL_RESPONSE_CALL_STATE_CHANGED [SUB1]
+05-02 09:05:06.544 D/RILJ    ( 2940): [4998]> GET_CURRENT_CALLS [SUB1]
+05-02 09:05:06.547 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:06.547 E/RILD2   ( 2432): DoRouteIn - FW reqId : 9
+05-02 09:05:06.547 E/RILD2   ( 2432): DoRouteOut - FW reqId : 9
+05-02 09:05:06.548 E/RILD2   ( 2432): GC-MGR: evt(100)
+05-02 09:05:06.548 E/RILD2   ( 2432): DoGetCurrentCalls():
+05-02 09:05:06.549 E/RILD2   ( 2432): Onprocessing or cancel Request id(9), handleEvent(100), state (2)
+05-02 09:05:06.549 E/RILD2   ( 2432): IpcProtocol41::IpcTxCallGetCallList
+05-02 09:05:06.549 E/RILD2   ( 2432): [G] TX: (M)CALL_CMD (S)CALL_LIST (T)GET l:7 m:99 a:00 [ ]
+05-02 09:05:06.554 E/RILD2   ( 2432): [G] RX: (M)CALL_CMD (S)CALL_LIST (T)RESP l:1a m:d1 a:99 [ 01 00 01 00 01 04 00 0A 21 39 37 34 35 33 31 36 34 38 38 ]
+05-02 09:05:06.554 E/RILD2   ( 2432): IpcProtocol41Iil::ConvertCallTypeToCallDetails(100)
+05-02 09:05:06.554 E/RILD2   ( 2432): ===== CALL LIST(1/1) =====
+05-02 09:05:06.554 E/RILD2   ( 2432): isVoice: 1
+05-02 09:05:06.554 E/RILD2   ( 2432): isVideo: 0
+05-02 09:05:06.555 E/RILD2   ( 2432): callType: 0
+05-02 09:05:06.555 E/RILD2   ( 2432): callDomain: 1
+05-02 09:05:06.555 E/RILD2   ( 2432): callId: 0
+05-02 09:05:06.555 E/RILD2   ( 2432): isMT: 0
+05-02 09:05:06.555 E/RILD2   ( 2432): als: 0
+05-02 09:05:06.555 E/RILD2   ( 2432): state: 3
+05-02 09:05:06.555 E/RILD2   ( 2432): len: 10
+05-02 09:05:06.555 E/RILD2   ( 2432): toa: 129
+05-02 09:05:06.555 E/RILD2   ( 2432): ==========================
+05-02 09:05:06.556 E/RILD2   ( 2432): GC-MGR: evt(101)
+05-02 09:05:06.556 E/RILD2   ( 2432): AddCallId() have(0): index=1, call id=0
+05-02 09:05:06.556 E/RILD2   ( 2432): NumPresent Info(0, 0)
+05-02 09:05:06.556 E/RILD2   ( 2432): OnGetCurrentCallsDone(): E911 progress: 2, isE911inCallList: 0, RAT: 0
+05-02 09:05:06.556 E/RILD2   ( 2432): OnGetCurrentCallsDone() - CallList is changed (Count: 1)
+05-02 09:05:06.558 D/RILJ    ( 2940): responseCallList: num=1 mEmergencyCallbackModeRegistrant=android.os.Registrant@a9670b5 mTestingEmergencyCall=false [SUB1]
+05-02 09:05:06.559 D/RILJ    ( 2940): Samsung call details: type=0, domain=1, csv= [SUB1]
+05-02 09:05:06.559 D/RILJ    ( 2940): responseCallList dc.number=9745316488 [SUB1]
+05-02 09:05:06.560 D/RILJ    ( 2940): responseCallList dc.name=null [SUB1]
+05-02 09:05:06.560 V/RILJ    ( 2940): Incoming UUS : NOT present! [SUB1]
+05-02 09:05:06.560 D/RILJ    ( 2940): InCall VoicePrivacy is disabled [SUB1]
+05-02 09:05:06.561 D/RILJ    ( 2940): [4998]< GET_CURRENT_CALLS {[id=1,ALERTING,toa=129,norm,mo,0,voc,noevp,,cli=1,,1] } [SUB1]
+05-02 09:05:06.561 E/RILD2   ( 2432): GC-MGR::OnGetCurrentCallsDone(): prevVolteCallsCnt 0, mVoLteCallList->mCount 0
+05-02 09:05:06.561 D/GsmCdmaCallTracker( 2940): Event EVENT_POLL_CALLS_RESULT Received
+05-02 09:05:06.561 D/GsmCdmaConnection( 2940): [GsmCdmaConn] parent= DIALING, newParent= DIALING
+05-02 09:05:06.561 D/GsmCdmaConnection( 2940): [GsmCdmaConn]  mNumberConverted false
+05-02 09:05:06.562 D/GsmCdmaConnection( 2940): [GsmCdmaConn] --dssds----null
+05-02 09:05:06.564 D/GsmCdmaConnection( 2940): [GsmCdmaConn] update: parent=ALERTING, hasNewParent=false, wasConnectingInOrOut=true, wasHolding=false, isConnectingInOrOut=true, changed=true
+05-02 09:05:06.565 D/GsmCdmaCallTracker( 2940): [GsmCdmaCallTracker] update phone state, old=OFFHOOK new=OFFHOOK
+05-02 09:05:06.569 W/PhoneNumberUtils( 2940): getCountryIso Country {ISO=NP, source=0, time=4705372}
+05-02 09:05:06.569 W/PhoneNumberUtils( 2940): isLocalEmergencyNumberInternalNP
+05-02 09:05:06.571 D/PhoneNumberUtils( 2940): slotId:1 subId:2 country:NP emergencyNumbers: 
+05-02 09:05:06.571 D/PhoneNumberUtils( 2940): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:05:06.581 D/PhoneNumberUtils( 2940): slotId:1 subId:2 country:null emergencyNumbers: 
+05-02 09:05:06.581 D/PhoneNumberUtils( 2940): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:05:07.190 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_RSSI_INFO (T)NOTI l:10 m:d2 a:00 [ 5F 09 00 63 00 FF FF FF FF ]
+05-02 09:05:07.190 E/RILD2   ( 2432): ConvertDbmToAsu(): dbm=95, asu=9
+05-02 09:05:07.190 E/RILD2   ( 2432): IpcRxDispRssiInfo(): signalbar=-1, signal=9
+05-02 09:05:07.191 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:07.191 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:07.191 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 1
+05-02 09:05:07.192 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:07.192 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:07.192 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_ICON_INFO (T)NOTI l:11 m:d3 a:00 [ 01 02 00 00 00 00 FF FF FF FF ]
+05-02 09:05:07.192 E/RILD2   ( 2432): IpcProtocol41CmcVia::IpcRxDispIconInfo(): modemType=4
+05-02 09:05:07.192 E/RILD2   ( 2432): Signal Strength: [2, 4, 99, 4, 200, 4, 200, -1, 0, 2147483647, 255, 2147483647, 2147483647, 2147483647]
+05-02 09:05:07.193 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:07.193 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:07.193 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 2
+05-02 09:05:07.193 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:07.194 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:07.582 E/RILD2   ( 2432): [G] RX: (M)GPRS_CMD (S)GPRS_TRAFFIC_CHANNEL_STATUS (T)NOTI l:8 m:d4 a:00 [ 01 ]
+05-02 09:05:07.583 E/RILD2   ( 2432): LDC-MGR: evt(114)
+05-02 09:05:07.583 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1010
+05-02 09:05:07.584 D/RILJ    ( 2940): responseDataCallList ver=6 num=1 [SUB1]
+05-02 09:05:07.584 D/RILJ    ( 2940): [UNSL]< UNSOL_DATA_CALL_LIST_CHANGED [DataCallResponse: {version=6 status=0 retry=-1 cid=5 active=1 type=IP ifname=rmnet4 mtu=0 addresses=[10.92.200.179] dnses=[202.70.95.248,202.70.64.224] gateways=[10.92.200.1] pcscf=[]}] [SUB1]
+05-02 09:05:07.592 D/Dcc     ( 2940): onDataStateChanged: dcsList=[DataCallResponse: {version=6 status=0 retry=-1 cid=5 active=1 type=IP ifname=rmnet4 mtu=0 addresses=[10.92.200.179] dnses=[202.70.95.248,202.70.64.224] gateways=[10.92.200.1] pcscf=[]}] mDcListActiveByCid={5={DC-1: State=DcActiveState mApnSetting=[ApnSettingV3] GPRS APN, 2630, 42901, ntwap, 192.80.7.133, , , , 8000, -1, default | supl, IP, IP, true, 0, 0, 0, false, 0, 0, 0, 0, , , false RefCount=1 mCid=5 mCreateTime=-1 mLastastFailTime=-1 mLastFailCause=NONE mTag=10 mLinkProperties={InterfaceName: rmnet4 LinkAddresses: [10.92.200.179/32,]  Routes: [0.0.0.0/0 -> 10.92.200.1 rmnet4,] DnsAddresses: [202.70.95.248,202.70.64.224,] Domains: null MTU: 1500 TcpBufferSizes: 4092,8760,48000,4096,8760,48000 HttpProxy: [192.80.7.133] 8000 } linkCapabilities=[ Transports: CELLULAR Capabilities: SUPL&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN LinkUpBandwidth>=80Kbps LinkDnBandwidth>=80Kbps Specifier: <2>] mRestrictedNetworkOverride=false mApnContexts={{mApnType=default mState=CONNECTED mWaitingApns={[[ApnSettingV3] GPRS APN, 2630, 42901, ntwap, 192.80.7.133, , , , 8000, -1, default | supl, IP, IP, true, 0, 0, 0, false, 0, 0, 0, 0, , , false]} mApnSetting={[ApnSettingV3] GPRS APN, 2630, 42901, ntwap, 192.80.7.133, , , , 8000, -1, default | supl, IP, IP, true, 0, 0, 0, false, 0, 0, 0, 0, , , false} mReason=LOST_CONNECTION mDataEnabled=true mDependencyMet=true}={mTag=10 mApnContext={mApnType=default mState=CONNECTED mWaitingApns={[[ApnSettingV3] GPRS APN, 2630, 42901, ntwap, 192.80.7.133, , , , 8000, -1, default | supl, IP, IP, true, 0, 0, 0, false, 0, 0, 0, 0, , , false]} mApnSetting={[ApnSettingV3] GPRS APN, 2630, 42901, ntwap, 192.80.7.133, , , , 8000, -1, default | supl, IP, IP, true, 0, 0, 0, false, 0, 0, 0, 0, , , false} mReason=LOST_CONNECTION mDataEnabled=true mDependencyMet=true} mProfileId=0 mRat=15 mOnCompletedMsg={what=0x42000 when=-1h20m48s497ms obj=Pair{{mApnType=default mState=CONNECTED mWaitingApns={[[ApnSettingV3] GPRS APN, 2630, 42901, ntwap, 192.80.7.133, , , , 8000, -1, default | supl, IP, IP, true, 0, 0, 0, false, 0, 0, 0, 0, , , false]} mApnSetting={[ApnSettingV3] GPRS APN, 2630, 42901, ntwap, 192.80.7.133, , , , 8000, -1, default | supl, IP, IP, true, 0, 0, 0, false, 0, 0, 0, 0, , , false} mReason=LOST_CONNECTION mDataEnabled=true mDependencyMet=true} 26} target=Handler (com.android.internal.telephony.dataconnection.DcTracker) {6ed7c29} replyTo=null}}}}}
+05-02 09:05:07.592 D/Dcc     ( 2940): onDataStateChanged: dcsToRetry=[]
+05-02 09:05:07.592 D/Dcc     ( 2940): onDataStateChanged: Found ConnId=5 newState=DataCallResponse: {version=6 status=0 retry=-1 cid=5 active=1 type=IP ifname=rmnet4 mtu=0 addresses=[10.92.200.179] dnses=[202.70.95.248,202.70.64.224] gateways=[10.92.200.1] pcscf=[]}
+05-02 09:05:07.593 D/DataCallResponse( 2940): addr/pl=10.92.200.179/32
+05-02 09:05:07.594 D/DC-1    ( 2940): MTU set by config resource to: 1500
+05-02 09:05:07.594 D/Dcc     ( 2940): onDataStateChanged: no change
+05-02 09:05:07.594 D/Dcc     ( 2940): onDataStateChanged: Data Activity updated to DORMANT. stopNetStatePoll
+05-02 09:05:07.595 D/Dcc     ( 2940): onDataStateChanged: dcsToRetry=[] apnsToCleanup=[]
+05-02 09:05:07.595 D/DCT     ( 2940): [1]stopNetStatPoll
+05-02 09:05:07.599 D/DCT     ( 2940): [1]setActivity = DORMANT
+05-02 09:05:08.188 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_RSSI_INFO (T)NOTI l:10 m:d5 a:00 [ 61 08 04 63 00 FF FF FF FF ]
+05-02 09:05:08.189 E/RILD2   ( 2432): ConvertDbmToAsu(): dbm=97, asu=8
+05-02 09:05:08.189 E/RILD2   ( 2432): IpcRxDispRssiInfo(): signalbar=-1, signal=8
+05-02 09:05:08.189 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:08.189 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:08.190 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 2
+05-02 09:05:08.190 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:08.190 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:10.190 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_RSSI_INFO (T)NOTI l:10 m:d6 a:00 [ 63 07 02 63 00 FF FF FF FF ]
+05-02 09:05:10.190 E/RILD2   ( 2432): ConvertDbmToAsu(): dbm=99, asu=7
+05-02 09:05:10.190 E/RILD2   ( 2432): IpcRxDispRssiInfo(): signalbar=-1, signal=7
+05-02 09:05:10.191 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:10.191 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:10.191 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 2
+05-02 09:05:10.191 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:10.191 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:13.190 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_RSSI_INFO (T)NOTI l:10 m:d7 a:00 [ 66 05 06 63 00 FF FF FF FF ]
+05-02 09:05:13.191 E/RILD2   ( 2432): ConvertDbmToAsu(): dbm=102, asu=5
+05-02 09:05:13.191 E/RILD2   ( 2432): IpcRxDispRssiInfo(): signalbar=-1, signal=5
+05-02 09:05:13.191 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:13.191 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:13.191 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 2
+05-02 09:05:13.192 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:13.192 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:15.194 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_RSSI_INFO (T)NOTI l:10 m:d8 a:00 [ 57 0D 00 63 00 FF FF FF FF ]
+05-02 09:05:15.194 E/RILD2   ( 2432): ConvertDbmToAsu(): dbm=87, asu=13
+05-02 09:05:15.194 E/RILD2   ( 2432): IpcRxDispRssiInfo(): signalbar=-1, signal=13
+05-02 09:05:15.194 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:15.195 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:15.195 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 2
+05-02 09:05:15.195 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:15.195 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:17.193 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_ICON_INFO (T)NOTI l:11 m:d9 a:00 [ 01 03 00 00 00 00 FF FF FF FF ]
+05-02 09:05:17.193 E/RILD2   ( 2432): IpcProtocol41CmcVia::IpcRxDispIconInfo(): modemType=4
+05-02 09:05:17.193 E/RILD2   ( 2432): Signal Strength: [3, 8, 99, 8, 200, 8, 200, -1, 0, 2147483647, 255, 2147483647, 2147483647, 2147483647]
+05-02 09:05:17.194 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:17.194 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:17.194 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 3
+05-02 09:05:17.194 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:17.194 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:18.194 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_RSSI_INFO (T)NOTI l:10 m:da a:00 [ 5A 0B 00 63 00 FF FF FF FF ]
+05-02 09:05:18.194 E/RILD2   ( 2432): ConvertDbmToAsu(): dbm=90, asu=11
+05-02 09:05:18.194 E/RILD2   ( 2432): IpcRxDispRssiInfo(): signalbar=-1, signal=11
+05-02 09:05:18.195 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:18.195 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:18.195 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 3
+05-02 09:05:18.195 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:18.195 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:19.195 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_RSSI_INFO (T)NOTI l:10 m:db a:00 [ 58 0C 00 63 00 FF FF FF FF ]
+05-02 09:05:19.195 E/RILD2   ( 2432): ConvertDbmToAsu(): dbm=88, asu=12
+05-02 09:05:19.195 E/RILD2   ( 2432): IpcRxDispRssiInfo(): signalbar=-1, signal=12
+05-02 09:05:19.196 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:19.196 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:19.197 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 3
+05-02 09:05:19.197 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:19.197 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:20.194 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_RSSI_INFO (T)NOTI l:10 m:dc a:00 [ 55 0E 00 63 00 FF FF FF FF ]
+05-02 09:05:20.195 E/RILD2   ( 2432): ConvertDbmToAsu(): dbm=85, asu=14
+05-02 09:05:20.195 E/RILD2   ( 2432): IpcRxDispRssiInfo(): signalbar=-1, signal=14
+05-02 09:05:20.195 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:20.195 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:20.196 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 3
+05-02 09:05:20.196 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:20.196 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:22.195 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_ICON_INFO (T)NOTI l:11 m:dd a:00 [ 01 04 00 00 00 00 FF FF FF FF ]
+05-02 09:05:22.195 E/RILD2   ( 2432): IpcProtocol41CmcVia::IpcRxDispIconInfo(): modemType=4
+05-02 09:05:22.195 E/RILD2   ( 2432): Signal Strength: [4, 16, 99, 16, 200, 16, 200, -1, 0, 2147483647, 255, 2147483647, 2147483647, 2147483647]
+05-02 09:05:22.196 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:22.196 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:22.196 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 4
+05-02 09:05:22.196 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:22.197 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:22.693 D/RILJ    ( 2940): [4999]> SIGNAL_STRENGTH [SUB0]
+05-02 09:05:22.694 E/RILD    ( 2333): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:22.695 E/RILD    ( 2333): DoRouteIn - FW reqId : 19
+05-02 09:05:22.695 E/RILD    ( 2333): DoRouteOut - FW reqId : 19
+05-02 09:05:22.695 E/RILD    ( 2333): Onprocessing or cancel Request id(19), handleEvent(106), state (2)
+05-02 09:05:22.695 E/RILD    ( 2333): GLNET-MGR: evt(106)
+05-02 09:05:22.695 E/RILD    ( 2333): DoSignalStrength():
+05-02 09:05:22.695 E/RILD    ( 2333): IpcProtocol41::IpcTxDispGetIconInformation
+05-02 09:05:22.695 E/RILD    ( 2333): [G] TX: (M)DISP_CMD (S)DISP_ICON_INFO (T)GET l:8 m:11 a:00 [ 01 ]
+05-02 09:05:22.698 E/RILD    ( 2333): [G] RX: (M)DISP_CMD (S)DISP_ICON_INFO (T)RESP l:11 m:14 a:11 [ 01 00 00 00 00 00 FF FF FF FF ]
+05-02 09:05:22.698 E/RILD    ( 2333): IpcProtocol41CmcVia::IpcRxDispIconInfo(): modemType=4
+05-02 09:05:22.698 E/RILD    ( 2333): Signal Strength: [0, 0, 99, 0, 200, 0, 200, -1, 0, 2147483647, 255, 2147483647, 2147483647, 2147483647]
+05-02 09:05:22.698 E/RILD    ( 2333): GLNET-MGR: evt(107)
+05-02 09:05:22.698 E/RILD    ( 2333): NET-MGR: EVENT_SIGNAL_STRENGTH_DONE
+05-02 09:05:22.699 D/RILJ    ( 2940): [4999]< SIGNAL_STRENGTH SignalStrength: 0 99 0 200 0 200 -1 0 2147483647 255 2147483647 2147483647 2147483647 gsm|lte [SUB0]
+05-02 09:05:22.699 D/SubscriptionController( 2940): [getSubId]- numSubIds == 0, return DummySubIds slotIdx=0
+05-02 09:05:23.450 E/RILD2   ( 2432): [G] RX: (M)CALL_CMD (S)CALL_STATUS (T)NOTI l:d m:de a:00 [ 00 01 00 04 00 0D ]
+05-02 09:05:23.450 E/RILD2   ( 2432): IpcProtocol41Iil::ConvertCallTypeToCallDetails(100)
+05-02 09:05:23.450 E/RILD2   ( 2432): GetReleaseCause(0x0,0xd)
+05-02 09:05:23.450 E/RILD2   ( 2432): GC-MGR: evt(200)
+05-02 09:05:23.450 E/RILD2   ( 2432): EVENT_CALL_STATE_CHANGED
+05-02 09:05:23.450 E/RILD2   ( 2432): OnCallStatusChanged() - CallId(0), CallStatus(4), CallType(0), CallDomain(1)
+05-02 09:05:23.450 E/RILD2   ( 2432): GetCurrentCallType() index=1, call id=0/-1, call type=1
+05-02 09:05:23.450 E/RILD2   ( 2432): writeToDevice(): failed opening /sys/class/sec/sec_keypad/call_status : No such file or directory
+05-02 09:05:23.450 E/RILD2   ( 2432): OnCallStatusChanged(): failed writing to /sys/class/sec/sec_keypad/call_status : No such file or directory
+05-02 09:05:23.450 E/RILD2   ( 2432): DelCallIdInfo() index=1,0 call id=0
+05-02 09:05:23.451 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 11010
+05-02 09:05:23.451 E/RILD2   ( 2432): Oem OnUnsolicitedResponse: response code=11010
+05-02 09:05:23.451 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1001
+05-02 09:05:23.451 E/RILD2   ( 2432): [FD] Set FD time: 5000
+05-02 09:05:23.451 E/RILD2   ( 2432): GLNET-MGR: evt(232)
+05-02 09:05:23.451 E/RILD2   ( 2432): NET-MGR: EVENT_VOICE_CALL_ENDED
+05-02 09:05:23.452 V/RILJ    ( 2940): XMM7260: unknown unsolicited response 11010
+05-02 09:05:23.452 V/RILJ    ( 2940): XMM7260: am=broadcast -a android.intent.action.PHONE_EXSTATE_CHANGED --ei STATE 9
+05-02 09:05:23.452 D/RILJ    ( 2940): [UNSL]< UNSOL_RESPONSE_CALL_STATE_CHANGED [SUB1]
+05-02 09:05:23.452 D/RILJ    ( 2940): [5000]> GET_CURRENT_CALLS [SUB1]
+05-02 09:05:23.454 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:23.454 E/RILD2   ( 2432): DoRouteIn - FW reqId : 9
+05-02 09:05:23.455 E/RILD2   ( 2432): DoRouteOut - FW reqId : 9
+05-02 09:05:23.455 E/RILD2   ( 2432): Onprocessing or cancel Request id(9), handleEvent(100), state (2)
+05-02 09:05:23.455 E/RILD2   ( 2432): GC-MGR: evt(100)
+05-02 09:05:23.455 E/RILD2   ( 2432): DoGetCurrentCalls():
+05-02 09:05:23.455 E/RILD2   ( 2432): IpcProtocol41::IpcTxCallGetCallList
+05-02 09:05:23.455 E/RILD2   ( 2432): [G] TX: (M)CALL_CMD (S)CALL_LIST (T)GET l:7 m:9a a:00 [ ]
+05-02 09:05:23.458 E/RILD2   ( 2432): [G] RX: (M)CALL_CMD (S)CALL_LIST (T)RESP l:8 m:df a:9a [ 00 ]
+05-02 09:05:23.459 E/RILD2   ( 2432): GC-MGR: evt(101)
+05-02 09:05:23.459 E/RILD2   ( 2432): SetCallCount() - CallCount: 1 -> 0
+05-02 09:05:23.459 E/RILD2   ( 2432): OnGetCurrentCallsDone(): E911 progress: 2, isE911inCallList: 0, RAT: 0
+05-02 09:05:23.459 E/RILD2   ( 2432): OnGetCurrentCallsDone() - CallList is changed (Count: 0)
+05-02 09:05:23.459 E/RILD2   ( 2432): OnGetCurrentCallsDone() - Call Count: 1 -> 0
+05-02 09:05:23.459 E/RILD2   ( 2432): GC-MGR::OnGetCurrentCallsDone(): prevVolteCallsCnt 0, mVoLteCallList->mCount 0
+05-02 09:05:23.460 D/RILJ    ( 2940): responseCallList: num=0 mEmergencyCallbackModeRegistrant=android.os.Registrant@a9670b5 mTestingEmergencyCall=false [SUB1]
+05-02 09:05:23.460 D/RILJ    ( 2940): [5000]< GET_CURRENT_CALLS {} [SUB1]
+05-02 09:05:23.461 D/GsmCdmaCallTracker( 2940): Event EVENT_POLL_CALLS_RESULT Received
+05-02 09:05:23.461 D/RILJ    ( 2940): [5001]> LAST_CALL_FAIL_CAUSE [SUB1]
+05-02 09:05:23.462 D/GsmCdmaCallTracker( 2940): [GsmCdmaCallTracker] update phone state, old=OFFHOOK new=OFFHOOK
+05-02 09:05:23.463 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:23.463 E/RILD2   ( 2432): DoRouteIn - FW reqId : 18
+05-02 09:05:23.463 E/RILD2   ( 2432): DoRouteOut - FW reqId : 18
+05-02 09:05:23.464 E/RILD2   ( 2432): Onprocessing or cancel Request id(18), handleEvent(102), state (2)
+05-02 09:05:23.464 E/RILD2   ( 2432): GC-MGR: evt(102)
+05-02 09:05:23.464 E/RILD2   ( 2432): EVENT_LAST_CALL_FAIL_CAUSE
+05-02 09:05:23.464 E/RILC    ( 2432): responseFailCause: invalid response length 12 expected an int or RIL_LastCallFailCauseInfo
+05-02 09:05:23.464 E/RILC    ( 2432): responseFunction error, ret -1
+05-02 09:05:23.465 D/RilRequest( 2940): [5001]< LAST_CALL_FAIL_CAUSE error: com.android.internal.telephony.CommandException: INVALID_RESPONSE ret=
+05-02 09:05:23.465 I/GsmCdmaCallTracker( 2940): Exception during getLastCallFailCause, assuming normal disconnect
+05-02 09:05:23.465 D/GsmCdmaConnection( 2940): onDisconnect: cause=2
+05-02 09:05:23.467 D/GsmCdmaConnection( 2940): [GsmCdmaConn] releaseWakeLock
+05-02 09:05:23.468 D/GsmCdmaCallTracker( 2940): [GsmCdmaCallTracker] update phone state, old=OFFHOOK new=IDLE
+05-02 09:05:23.473 W/PhoneNumberUtils( 2940): getCountryIso Country {ISO=NP, source=0, time=4705372}
+05-02 09:05:23.473 W/PhoneNumberUtils( 2940): isLocalEmergencyNumberInternalNP
+05-02 09:05:23.474 D/PhoneNumberUtils( 2940): slotId:1 subId:2 country:NP emergencyNumbers: 
+05-02 09:05:23.474 D/PhoneNumberUtils( 2940): System property doesn't provide any emergency numbers. Use embedded logic for determining ones.
+05-02 09:05:23.476 D/DCT     ( 2940): [1]onVoiceCallEnded
+05-02 09:05:23.477 D/DCT     ( 2940): [1]startNetStatPoll
+05-02 09:05:23.482 D/DCT     ( 2940): [1]notifyDataConnection: reason=2GVoiceCallEnded
+05-02 09:05:23.482 D/DCT     ( 2940): [1]notifyDataConnection: type:default
+05-02 09:05:23.482 D/GsmCdmaPhone( 2940): [GsmCdmaPhone] getDataConnectionState apnType=default ret=CONNECTED
+05-02 09:05:23.483 D/DCT     ( 2940): [1]return link properites for default
+05-02 09:05:23.484 D/DC-1    ( 2940): DcActiveState not handled msg.what=REQ_GET_LINK_PROPERTIES
+05-02 09:05:23.484 D/DC-1    ( 2940): DcDefault msg=REQ_GET_LINK_PROPERTIES RefCount=1
+05-02 09:05:23.485 D/DC-1    ( 2940): REQ_GET_LINK_PROPERTIES linkProperties{InterfaceName: rmnet4 LinkAddresses: [10.92.200.179/32,]  Routes: [0.0.0.0/0 -> 10.92.200.1 rmnet4,] DnsAddresses: [202.70.95.248,202.70.64.224,] Domains: null MTU: 1500 TcpBufferSizes: 4092,8760,48000,4096,8760,48000 HttpProxy: [192.80.7.133] 8000 }
+05-02 09:05:23.485 D/DCT     ( 2940): [1]get active pdp is not null, return NetworkCapabilities for default
+05-02 09:05:23.485 D/DC-1    ( 2940): DcActiveState not handled msg.what=REQ_GET_NETWORK_CAPABILITIES
+05-02 09:05:23.485 D/DC-1    ( 2940): DcDefault msg=REQ_GET_NETWORK_CAPABILITIES RefCount=1
+05-02 09:05:23.489 D/DC-1    ( 2940): REQ_GET_NETWORK_CAPABILITIES networkCapabilities[ Transports: CELLULAR Capabilities: SUPL&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN LinkUpBandwidth>=80Kbps LinkDnBandwidth>=80Kbps Specifier: <2>]
+05-02 09:05:23.489 D/CdmaSSM ( 2940): subscriptionSource from settings: 0
+05-02 09:05:23.496 D/TelephonyRegistry( 2610): Notify data connection state changed on sub: 2
+05-02 09:05:23.496 D/TelephonyRegistry( 2610): Notify data connection state changed on sub: 2
+05-02 09:05:23.496 E/RILD    ( 2333): Oem client connected
+05-02 09:05:23.497 E/RILD    ( 2333): can't connect with oem client
+05-02 09:05:23.500 D/CdmaSSM ( 2940): subscriptionSource from settings: 0
+05-02 09:05:23.502 D/CdmaSSM ( 2940): subscriptionSource from settings: 0
+05-02 09:05:23.510 D/CdmaSSM ( 2940): subscriptionSource from settings: 0
+05-02 09:05:23.516 D/CdmaSSM ( 2940): subscriptionSource from settings: 0
+05-02 09:05:23.525 D/CdmaSSM ( 2940): subscriptionSource from settings: 0
+05-02 09:05:23.534 D/CdmaSSM ( 2940): subscriptionSource from settings: 0
+05-02 09:05:23.556 D/CdmaSSM ( 2940): subscriptionSource from settings: 0
+05-02 09:05:23.572 D/CdmaSSM ( 2940): subscriptionSource from settings: 0
+05-02 09:05:23.580 D/CdmaSSM ( 2940): subscriptionSource from settings: 0
+05-02 09:05:23.588 D/DCT     ( 2940): [1]setupDataOnConnectableApns: 2GVoiceCallEnded hipri:[state=IDLE,enabled=false] mms:[state=IDLE,enabled=false] supl:[state=IDLE,enabled=false] cbs:[state=IDLE,enabled=false] dun:[state=IDLE,enabled=false] fota:[state=IDLE,enabled=false] ims:[state=IDLE,enabled=false] default:[state=CONNECTED,enabled=true] ia:[state=IDLE,enabled=false] emergency:[state=IDLE,enabled=false] 
+05-02 09:05:23.725 E/RILD    ( 2333): Oem client connected
+05-02 09:05:23.725 E/RILD    ( 2333): can't connect with oem client
+05-02 09:05:24.194 E/RILD2   ( 2432): [G] RX: (M)DISP_CMD (S)DISP_RSSI_INFO (T)NOTI l:10 m:e0 a:00 [ 56 0D 00 63 00 FF FF FF FF ]
+05-02 09:05:24.195 E/RILD2   ( 2432): ConvertDbmToAsu(): dbm=86, asu=13
+05-02 09:05:24.195 E/RILD2   ( 2432): IpcRxDispRssiInfo(): signalbar=-1, signal=13
+05-02 09:05:24.195 E/RILD2   ( 2432): GLNET-MGR: evt(201)
+05-02 09:05:24.195 E/RILD2   ( 2432): NET-MGR: EVENT_NETWORK_SIGNAL_STRENGTH
+05-02 09:05:24.195 E/RILD2   ( 2432): OnNetworkSignalStrength() - mSignalBar: 4
+05-02 09:05:24.195 E/RILD2   ( 2432): IsRegisteredNetworkType(): netType[1]  feature[00] state[0] 
+05-02 09:05:24.195 E/RILD2   ( 2432): OnUnsolicitedResponse: unsolId: 1009
+05-02 09:05:24.599 D/DCT     ( 2940): [0]screen off
+05-02 09:05:24.599 D/DCT     ( 2940): [0]stopNetStatPoll
+05-02 09:05:24.600 D/SubscriptionController( 2940): [getSubId]- numSubIds == 0, return DummySubIds slotIdx=0
+05-02 09:05:24.600 D/SubscriptionController( 2940): [getSubId]- numSubIds == 0, return DummySubIds slotIdx=0
+05-02 09:05:24.602 D/DCT     ( 2940): [1]screen off
+05-02 09:05:24.602 D/DCT     ( 2940): [1]stopNetStatPoll
+05-02 09:05:24.603 D/DCT     ( 2940): [1]startNetStatPoll
